@@ -46,7 +46,7 @@ This project is a simple implementation of a Rock, Paper, Scissors game using ha
 
 ## Screenshots
 
-![Game Screenshot](docs/screenshot.png)
+![Game Screenshot]([docs/screenshot.png](https://github.com/OmBirari/RockPaperScissor/blob/main/Capture.JPG))
 
 ## License
 
