@@ -46,7 +46,8 @@ This project is a simple implementation of a Rock, Paper, Scissors game using ha
 
 ## Screenshots
 
-![Img](https://github.com/OmBirari/Palm-Tracking-Model/assets/111376587/52ccecdc-4de8-477f-9c13-a9c300566a27)
+![Capture](https://github.com/OmBirari/RockPaperScissor/assets/111376587/527f06c4-f97e-49ad-af97-d54ca554a27d)
+
 
 ## License
 
